@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/tastefultravel/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/tastefultravel/static/js/main.1978d8a7.chunk.js",
-    "main.js.map": "/tastefultravel/static/js/main.1978d8a7.chunk.js.map",
-    "runtime-main.js": "/tastefultravel/static/js/runtime-main.0eecc896.js",
-    "runtime-main.js.map": "/tastefultravel/static/js/runtime-main.0eecc896.js.map",
-    "static/js/2.7ee91bcb.chunk.js": "/tastefultravel/static/js/2.7ee91bcb.chunk.js",
-    "static/js/2.7ee91bcb.chunk.js.map": "/tastefultravel/static/js/2.7ee91bcb.chunk.js.map",
-    "static/js/3.16772227.chunk.js": "/tastefultravel/static/js/3.16772227.chunk.js",
-    "static/js/3.16772227.chunk.js.map": "/tastefultravel/static/js/3.16772227.chunk.js.map",
+    "main.css": "/tastefultravel/static/css/main.9dfd79a2.chunk.css",
+    "main.js": "/tastefultravel/static/js/main.935ca8bd.chunk.js",
+    "main.js.map": "/tastefultravel/static/js/main.935ca8bd.chunk.js.map",
+    "runtime-main.js": "/tastefultravel/static/js/runtime-main.a99b325d.js",
+    "runtime-main.js.map": "/tastefultravel/static/js/runtime-main.a99b325d.js.map",
+    "static/js/2.ed69cb75.chunk.js": "/tastefultravel/static/js/2.ed69cb75.chunk.js",
+    "static/js/2.ed69cb75.chunk.js.map": "/tastefultravel/static/js/2.ed69cb75.chunk.js.map",
+    "static/js/3.9c3e4ed3.chunk.js": "/tastefultravel/static/js/3.9c3e4ed3.chunk.js",
+    "static/js/3.9c3e4ed3.chunk.js.map": "/tastefultravel/static/js/3.9c3e4ed3.chunk.js.map",
     "index.html": "/tastefultravel/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/tastefultravel/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.7ee91bcb.chunk.js.LICENSE.txt": "/tastefultravel/static/js/2.7ee91bcb.chunk.js.LICENSE.txt",
+    "static/css/main.9dfd79a2.chunk.css.map": "/tastefultravel/static/css/main.9dfd79a2.chunk.css.map",
+    "static/js/2.ed69cb75.chunk.js.LICENSE.txt": "/tastefultravel/static/js/2.ed69cb75.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/tastefultravel/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0eecc896.js",
-    "static/js/2.7ee91bcb.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.1978d8a7.chunk.js"
+    "static/js/runtime-main.a99b325d.js",
+    "static/js/2.ed69cb75.chunk.js",
+    "static/css/main.9dfd79a2.chunk.css",
+    "static/js/main.935ca8bd.chunk.js"
   ]
 }
