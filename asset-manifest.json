@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/tastefultravel/static/css/main.9dfd79a2.chunk.css",
-    "main.js": "/tastefultravel/static/js/main.935ca8bd.chunk.js",
-    "main.js.map": "/tastefultravel/static/js/main.935ca8bd.chunk.js.map",
-    "runtime-main.js": "/tastefultravel/static/js/runtime-main.a99b325d.js",
-    "runtime-main.js.map": "/tastefultravel/static/js/runtime-main.a99b325d.js.map",
-    "static/js/2.ed69cb75.chunk.js": "/tastefultravel/static/js/2.ed69cb75.chunk.js",
-    "static/js/2.ed69cb75.chunk.js.map": "/tastefultravel/static/js/2.ed69cb75.chunk.js.map",
-    "static/js/3.9c3e4ed3.chunk.js": "/tastefultravel/static/js/3.9c3e4ed3.chunk.js",
-    "static/js/3.9c3e4ed3.chunk.js.map": "/tastefultravel/static/js/3.9c3e4ed3.chunk.js.map",
+    "main.css": "/tastefultravel/static/css/main.3bc76ea0.chunk.css",
+    "main.js": "/tastefultravel/static/js/main.3a73a129.chunk.js",
+    "main.js.map": "/tastefultravel/static/js/main.3a73a129.chunk.js.map",
+    "runtime-main.js": "/tastefultravel/static/js/runtime-main.ba28240f.js",
+    "runtime-main.js.map": "/tastefultravel/static/js/runtime-main.ba28240f.js.map",
+    "static/js/2.991546b4.chunk.js": "/tastefultravel/static/js/2.991546b4.chunk.js",
+    "static/js/2.991546b4.chunk.js.map": "/tastefultravel/static/js/2.991546b4.chunk.js.map",
     "index.html": "/tastefultravel/index.html",
-    "static/css/main.9dfd79a2.chunk.css.map": "/tastefultravel/static/css/main.9dfd79a2.chunk.css.map",
-    "static/js/2.ed69cb75.chunk.js.LICENSE.txt": "/tastefultravel/static/js/2.ed69cb75.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/tastefultravel/static/media/logo.6ce24c58.svg"
+    "static/css/main.3bc76ea0.chunk.css.map": "/tastefultravel/static/css/main.3bc76ea0.chunk.css.map",
+    "static/js/2.991546b4.chunk.js.LICENSE.txt": "/tastefultravel/static/js/2.991546b4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a99b325d.js",
-    "static/js/2.ed69cb75.chunk.js",
-    "static/css/main.9dfd79a2.chunk.css",
-    "static/js/main.935ca8bd.chunk.js"
+    "static/js/runtime-main.ba28240f.js",
+    "static/js/2.991546b4.chunk.js",
+    "static/css/main.3bc76ea0.chunk.css",
+    "static/js/main.3a73a129.chunk.js"
   ]
 }
