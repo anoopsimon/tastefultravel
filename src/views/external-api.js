@@ -44,10 +44,19 @@ const ExternalApi = () => {
   return (
     <div className="container">
       <button type="button" className="btn btn-primary" onClick={callApi}>
-          Get Public Message
+          View My Orders
         </button>
         {message.map((order, index) => (
-        <p>{order.OrderNumber} from {order.Restaurant}!</p>
+          <div>
+                    <hr></hr>
+
+        <p>Order Number : {order.OrderNumber} </p>
+        <p> Restaurant {order.Restaurant}!</p>
+        <p> Order Date :{order.Date}!</p>
+        <p> Order Status :{order.OrderStatus}!</p>
+
+        <hr></hr>
+       </div>
     ))}
      </div>
   );

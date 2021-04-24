@@ -4,9 +4,9 @@ const Footer = () => (
   <footer className="bg-light p-3 text-center">
     <div className="logo" />
     <p>
-     Food{" "}
-      <a target="_blank" rel="noopener noreferrer" href="https://auth0.com">
-        Auth0
+     ShopFood - By{" "}
+      <a target="_blank" rel="noopener noreferrer" href="#">
+        Anoop Simon
       </a>
     </p>
   </footer>
