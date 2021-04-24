@@ -1,0 +1,16 @@
+[
+    {
+        "OrderNumber":10001,
+        "Restaurant":"KFC",
+        "Amount":25.90,
+        "OrderDate":"04/04/2021",
+        "OrderStatus":"Delivered"
+    },
+    {
+        "OrderNumber":10002,
+        "Restaurant":"Hungry Jacks",
+        "Amount":20.99,
+        "OrderDate":"04/05/2021",
+        "OrderStatus":"Delivered"
+    }
+]
