@@ -9,7 +9,7 @@ const MainNav = () => (
       className="nav-link"
       activeClassName="router-link-exact-active"
     >
-      Home
+      Food
     </NavLink>
     <NavLink
       to="/profile"
@@ -17,7 +17,7 @@ const MainNav = () => (
       className="nav-link"
       activeClassName="router-link-exact-active"
     >
-      Profile
+      My Account
     </NavLink>
     <NavLink
       to="/external-api"
@@ -25,7 +25,7 @@ const MainNav = () => (
       className="nav-link"
       activeClassName="router-link-exact-active"
     >
-      My Orders
+      Orders
     </NavLink>
   </div>
 );
