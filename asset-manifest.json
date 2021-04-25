@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://automationio.github.io/tastefultravel/static/css/main.3bc76ea0.chunk.css",
-    "main.js": "https://automationio.github.io/tastefultravel/static/js/main.0dd9339d.chunk.js",
-    "main.js.map": "https://automationio.github.io/tastefultravel/static/js/main.0dd9339d.chunk.js.map",
-    "runtime-main.js": "https://automationio.github.io/tastefultravel/static/js/runtime-main.38fa8e1c.js",
-    "runtime-main.js.map": "https://automationio.github.io/tastefultravel/static/js/runtime-main.38fa8e1c.js.map",
-    "static/css/2.325dfaf0.chunk.css": "https://automationio.github.io/tastefultravel/static/css/2.325dfaf0.chunk.css",
-    "static/js/2.7a384d76.chunk.js": "https://automationio.github.io/tastefultravel/static/js/2.7a384d76.chunk.js",
-    "static/js/2.7a384d76.chunk.js.map": "https://automationio.github.io/tastefultravel/static/js/2.7a384d76.chunk.js.map",
-    "index.html": "https://automationio.github.io/tastefultravel/index.html",
-    "static/css/2.325dfaf0.chunk.css.map": "https://automationio.github.io/tastefultravel/static/css/2.325dfaf0.chunk.css.map",
-    "static/css/main.3bc76ea0.chunk.css.map": "https://automationio.github.io/tastefultravel/static/css/main.3bc76ea0.chunk.css.map",
-    "static/js/2.7a384d76.chunk.js.LICENSE.txt": "https://automationio.github.io/tastefultravel/static/js/2.7a384d76.chunk.js.LICENSE.txt"
+    "main.css": "http://automationio.github.io/tastefultravel /static/css/main.3bc76ea0.chunk.css",
+    "main.js": "http://automationio.github.io/tastefultravel /static/js/main.480f480d.chunk.js",
+    "main.js.map": "http://automationio.github.io/tastefultravel /static/js/main.480f480d.chunk.js.map",
+    "runtime-main.js": "http://automationio.github.io/tastefultravel /static/js/runtime-main.7455511e.js",
+    "runtime-main.js.map": "http://automationio.github.io/tastefultravel /static/js/runtime-main.7455511e.js.map",
+    "static/css/2.325dfaf0.chunk.css": "http://automationio.github.io/tastefultravel /static/css/2.325dfaf0.chunk.css",
+    "static/js/2.7a384d76.chunk.js": "http://automationio.github.io/tastefultravel /static/js/2.7a384d76.chunk.js",
+    "static/js/2.7a384d76.chunk.js.map": "http://automationio.github.io/tastefultravel /static/js/2.7a384d76.chunk.js.map",
+    "index.html": "http://automationio.github.io/tastefultravel /index.html",
+    "static/css/2.325dfaf0.chunk.css.map": "http://automationio.github.io/tastefultravel /static/css/2.325dfaf0.chunk.css.map",
+    "static/css/main.3bc76ea0.chunk.css.map": "http://automationio.github.io/tastefultravel /static/css/main.3bc76ea0.chunk.css.map",
+    "static/js/2.7a384d76.chunk.js.LICENSE.txt": "http://automationio.github.io/tastefultravel /static/js/2.7a384d76.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.38fa8e1c.js",
+    "static/js/runtime-main.7455511e.js",
     "static/css/2.325dfaf0.chunk.css",
     "static/js/2.7a384d76.chunk.js",
     "static/css/main.3bc76ea0.chunk.css",
-    "static/js/main.0dd9339d.chunk.js"
+    "static/js/main.480f480d.chunk.js"
   ]
 }
