@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tastefultravel/static/css/main.3bc76ea0.chunk.css",
-    "main.js": "/tastefultravel/static/js/main.8c67ea48.chunk.js",
-    "main.js.map": "/tastefultravel/static/js/main.8c67ea48.chunk.js.map",
+    "main.js": "/tastefultravel/static/js/main.36782cc5.chunk.js",
+    "main.js.map": "/tastefultravel/static/js/main.36782cc5.chunk.js.map",
     "runtime-main.js": "/tastefultravel/static/js/runtime-main.ba28240f.js",
     "runtime-main.js.map": "/tastefultravel/static/js/runtime-main.ba28240f.js.map",
     "static/css/2.325dfaf0.chunk.css": "/tastefultravel/static/css/2.325dfaf0.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.325dfaf0.chunk.css",
     "static/js/2.7a384d76.chunk.js",
     "static/css/main.3bc76ea0.chunk.css",
-    "static/js/main.8c67ea48.chunk.js"
+    "static/js/main.36782cc5.chunk.js"
   ]
 }
