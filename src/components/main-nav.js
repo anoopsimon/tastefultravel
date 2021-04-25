@@ -20,7 +20,7 @@ const MainNav = () => (
       My Account
     </NavLink>
     <NavLink
-      to="/external-api"
+      to="/orders"
       exact
       className="nav-link"
       activeClassName="router-link-exact-active"

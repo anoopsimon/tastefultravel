@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import orders from "../data/orders.json"
 import { useAuth0 } from "@auth0/auth0-react";
 
-const ExternalApi = () => {
+const Orders = () => {
   const [message, setMessage] = useState([]);
   const serverUrl = process.env.REACT_APP_SERVER_URL;
 
@@ -62,4 +62,4 @@ const ExternalApi = () => {
   );
 };
 
-export default ExternalApi;
+export default Orders;

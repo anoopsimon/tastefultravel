@@ -1,6 +1,6 @@
 {
   "name": "auth0-react-sample",
-  "homepage": "http://automationio.github.io/tastefultravel",
+  "homepage": "http://automationio.github.io/tastefultravel/",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -17,7 +17,7 @@
     "start": "cross-env PORT=3000 react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "build": "react-scripts build",
+    "build": "react-scripts build && cp build/index.html build/404.html",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
